@@ -9,4 +9,5 @@
 ## Projects
 
 - [git-learning-log](https://github.com/cDjamez/git-learning-log) - My first Git project tracking a learning log
+- https://nextwork.ai/thoughtful_rose_majestic_kokako/docs/8bf3bcb5-a70d-418a-9c76-251365f69028
 
